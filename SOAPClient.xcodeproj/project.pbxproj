@@ -519,6 +519,7 @@
 				LIBXML_PREFIX = /usr/include/libxml2;
 				LIBXSLT_PREFIX = /usr/include/libxslt;
 				PRODUCT_NAME = SOAPClient;
+				SDKROOT = macosx;
 				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Debug;
@@ -543,6 +544,7 @@
 				LIBXML_PREFIX = /usr/include/libxml2;
 				LIBXSLT_PREFIX = /usr/include/libxslt;
 				PRODUCT_NAME = SOAPClient;
+				SDKROOT = macosx;
 				VALID_ARCHS = "i386 x86_64";
 			};
 			name = Release;
